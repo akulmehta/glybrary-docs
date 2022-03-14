@@ -10,4 +10,4 @@ Below is a set of topics which can help you get started with using Glybrary.
 1. [Login](./guides/Login.md)
 2. [User Roles](./guides/UserRoles.md)
 3. [Probes](./guides/Probes.md)
-4. Adding New Probes
+    1. [Proteins](/user/guides/probes/Proteins.md)
