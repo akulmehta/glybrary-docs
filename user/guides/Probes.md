@@ -13,7 +13,7 @@ The following probe types are currently present in Glybrary:
 1. Linkers
 2. Glycoconjugates
 3. [Proteins](/user/guides/probes/Proteins.md)
-4. Antibodies
+4. [Antibodies](/user/guides/probes/Antibodies.md)
 5. Chemicals
 
 *Note*- More probe types will be added as we develop further
