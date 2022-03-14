@@ -7,8 +7,7 @@ The aim of Glybrary is to make data entry more homogenous for various data types
 Below is a set of topics which can help you get started with using Glybrary.
 
 ## Table of Contents
-1. Getting Access
-2. Login
-3. User Roles
-4. Navigation
-5. Adding New Probes 
+1. [Login](./guides/Login.md)
+2. User Roles
+3. Navigation
+4. Adding New Probes
