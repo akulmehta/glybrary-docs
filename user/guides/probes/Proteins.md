@@ -41,7 +41,7 @@ you have a [user role](/user/guides/UserRoles.md) incapable of adding this entry
     1. If the protein was modified (e.g. His tag), then use the "Add Modifications" section to describe the modification.
     1. If the protein was chemically labeled (e.g. Biotin), then use the "Chemical Label" section to describe the chemical modification.
     1. Add any additional information by creating additional fields
-    1. Attach any files e.g. data sheets and certificates of analysis.
+    1. Attach any files e.g. data sheets and certificates of analysis. This may need to be done after creating the protein entry by editing it.
     1. Add any publications e.g. publications describing the expression of the protein.
     1. Select the visibility for either 
         1. "Private": only members of the lab and you can view this entry.
