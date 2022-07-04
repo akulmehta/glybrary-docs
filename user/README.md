@@ -12,3 +12,4 @@ Below is a set of topics which can help you get started with using Glybrary.
 3. [Probes](./guides/Probes.md)
     1. [Proteins](/user/guides/probes/Proteins.md)
     2. [Antibodies](/user/guides/probes/Antibodies.md)
+    3. [Biospecimens](/user/guides/probes/Biospecimens.md)
