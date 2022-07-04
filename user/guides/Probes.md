@@ -15,6 +15,7 @@ The following probe types are currently present in Glybrary:
 3. [Proteins](/user/guides/probes/Proteins.md)
 4. [Antibodies](/user/guides/probes/Antibodies.md)
 5. Chemicals
+6. [Biospecimens](/user/guides/probes/Biospecimens.md)
 
 *Note*- More probe types will be added as we develop further
 
