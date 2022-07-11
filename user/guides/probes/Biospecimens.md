@@ -41,9 +41,10 @@ you have a [user role](/user/guides/UserRoles.md) incapable of adding this entry
     1. Select the preferred detection method.
         
         More information about [Preferred Detection Method](/user/guides/probes/PreferredDetectionMethod.md).
+    1. If the biospecimen was chemically labeled (e.g. Alexa Fluor 488), then use the "Chemical Label" section to describe the chemical modification.
     1. Add any additional information by creating additional fields
-    1. Attach any files e.g. data sheets and certificates of analysis. This may need to be done after creating the protein entry by editing it.
-    1. Add any publications e.g. publications describing the expression of the protein.
+    1. Attach any files e.g. data sheets and certificates of analysis. This may need to be done after creating the biospecimen entry by editing it.
+    1. Add any publications e.g. publications describing the expression of the biospecimen.
     1. Select the visibility for either 
         1. "Private": only members of the lab and you can view this entry.
         2. "Public": everyone can view this entry.
