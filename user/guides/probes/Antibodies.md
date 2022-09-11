@@ -21,6 +21,7 @@ you have a [user role](/user/guides/UserRoles.md) incapable of adding this entry
     1. Enter a [Unique Probe Identifier](/user/guides/Probes.md#unique-probe-identifier) which can help identify this entry. Note:
         - A good probe identifier is something absolutely unique and can include some information about the source, catalog number and batch or date of preparation.
         - The unique probe identifier cannot be changed once it is set. So make absolutely sure what you enter here.
+    1. If assigned a request id/number, then select the request number/identifier from the list available to you.
     1. Enter general information, such as the antibody name, description, amino acid sequence (if known), genetic sequence (if known), clone number, 
         preparation type (whole antibody, ascites etc), clonality (monoclonal, polyclonal), isotype (IgG, IgM, IgA), subtype (1, 2, etc.),
         the immunogen against which the antibody was created, the epitope (if known), the cross reactivity (if known), and any results from alternate testing.
