@@ -23,6 +23,7 @@ you have a [user role](/user/guides/UserRoles.md) incapable of adding this entry
     1. Enter a [Unique Probe Identifier](/user/guides/Probes.md#unique-probe-identifier) which can help identify this entry. Note:
         - A good probe identifier is something absolutely unique and can include some information about the source, catalog number and batch or date of preparation.
         - The unique probe identifier cannot be changed once it is set. So make absolutely sure what you enter here.
+    1. If assigned a request id/number, then select the request number/identifier from the list available to you.
     1. Add any alternate names. Type the alternate name and enter a semicolon to separate multiple names.
     1. Find and Select the biospecimen species.
     1. Select the biospecimen type. If the biospecimen type does not exist in the list, choose "Other" biospecimen type and enter information about a new type and 
